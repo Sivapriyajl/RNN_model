@@ -12,3 +12,12 @@ In this project, I implemented an RNN model using Python to predict the future s
 4. **Model Training**: Trained an RNN model to predict sales, using Mean Squared Error (MSE) as the loss function to evaluate performance.
 5. **Model Evaluation**: Plotted the test data and predictions to visualize the model’s accuracy.
 6. **Forecasting**: Used the trained model to forecast future sales of alcohol.
+
+7. ## Dependencies:
+
+- TensorFlow/Keras (for the RNN model)
+- Pandas (for data manipulation)
+- NumPy (for numerical operations)
+- Matplotlib (for visualizations)
+- scikit-learn (for performance metrics)
+
